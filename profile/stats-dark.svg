@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nick Young's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 69, Total Commits  : 23380, Total PRs: 124, Total PRs Reviewed: 7, Total Issues: 299, Total Discussions Answered: 32, Contributed to (last year): 44</desc>
+        <desc id="descId">Total Stars Earned: 69, Total Commits  : 23376, Total PRs: 124, Total PRs Reviewed: 7, Total Issues: 299, Total Discussions Answered: 32, Contributed to (last year): 44</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 49.5019120225161;
+        stroke-dashoffset: 49.50191203316969;
       }
     }
   
