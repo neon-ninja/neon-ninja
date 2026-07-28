@@ -1,19 +1,2 @@
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Nick's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Nick's Github stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Nick's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Nick's Github stats" />
-</a>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=neon-ninja&rank_icon=percentile&include_all_commits=true&theme=neon)](https://github-stats-extended.vercel.app/api?username=neon-ninja&rank_icon=percentile&include_all_commits=true&theme=neon)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=neon-ninja&langs_count=10&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=neon-ninja&langs_count=10&theme=neon)
